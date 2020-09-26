@@ -1,7 +1,7 @@
 const agent = require('./util/agent');
 const tool = require('./util/tool');
 
-const browserGuideTpl = '<div style=\'position:fixed;left:0;top:0;background:rgba(0,0,0,0.5);filter:alpha(opacity=50);width:100%;height:100%;z-index:10000;\'><div style=\'text-align:right;margin-top:1%;margin-right:5%;\'><img style=\'width:70%; margin:0 auto;\' src=\'https://res.cdn.openinstall.io/api_res/images/ios-brower-tip.png\'/></div></div>';
+const browserGuideTpl = '<div style=\'position:fixed;left:0;top:0;background:rgba(0,0,0,0.5);filter:alpha(opacity=50);width:100%;height:100%;z-index:10000;\'><div style=\'text-align:right;margin-top:1%;margin-right:5%;\'><img style=\'width:70%; margin:0 auto;\' src=\'https://res.zijizhang.com/img/android-brower-tip.png\'/></div></div>';
 const platformUnSupportMsg = 'Do not support this platform';
 
 const err = (errorHandler, msg) => {

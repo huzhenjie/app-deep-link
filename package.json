@@ -2,7 +2,7 @@
   "name": "app-deep-link",
   "version": "1.0.0",
   "description": "For Android deep link and iOS universal link.",
-  "main": "index.js",
+  "main": "dist/app_deep_link.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rm -rf ./dist && webpack"
