@@ -1,6 +1,6 @@
 {
   "name": "app-deep-link",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "For Android deep link and iOS universal link.",
   "main": "dist/app_deep_link.min.js",
   "scripts": {
