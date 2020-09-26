@@ -1,5 +1,8 @@
 <h1 align="center">App deep link for Android and iOS</h1>
 
+[![https://img.shields.io/npm/v/app-deep-link/latest.svg](https://img.shields.io/npm/v/app-deep-link/latest.svg)](https://www.npmjs.com/package/app-deep-link)
+[![https://img.shields.io/badge/%24-donate-ff69b4.svg](https://img.shields.io/badge/%24-donate-ff69b4.svg)](https://github.com/huzhenjie/app-deep-link#donate)
+
 <h2>Introduction</h2>
 
 When a clicked link or programmatic request invokes a web URI intent, the mobile system tries open the only available app that can handle the URI. If open the app fails, navigate to download it.
@@ -92,3 +95,4 @@ If you find this project useful, you can buy anthor a glass of juice. Thank you.
 ![Donate](https://res.zijizhang.com/img/20200927/huzhenjie_pay_qr.jpg)
 
 [Paypal Me](https://www.paypal.com/paypalme/hzjpay)
+
