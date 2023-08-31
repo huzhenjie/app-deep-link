@@ -11,6 +11,8 @@ You needn't consider what platform is Android or iOS. You don't even need to con
 
 Call the only method `AppDeepLink.wakeUpOrInstall` when you want to wake up your app or install it in your js.
 
+（当点击链接时，如果已经安装了app，尝试调起app，如果没有安装app，跳转到下载）
+
 <h2>Getting started</h2>
 
 <h3>1. npm</h3>
